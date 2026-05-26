@@ -5,7 +5,7 @@ Astro + TypeScript boilerplate for dashboard-style projects, configured for GitH
 ## Stack
 
 - Astro (static output)
-- TypeScript (beginner-friendly setup)
+- TypeScript (simple setup)
 - Bootstrap via SCSS source import
 - npm package manager
 
